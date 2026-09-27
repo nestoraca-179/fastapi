@@ -1,0 +1,6 @@
+nombre,apellido,username,password,rol
+Oliver,Smith,oliver.smith,$pbkdf2-sha256$29000$8T5n7L3XWovROidk7D2n1A$DBZQtNxC4bMKZtsqcdfNDv5fW6313LgdIe03qIEaEkc,student
+Emma,Johnson,emma.johnson,$pbkdf2-sha256$29000$wThHSKn1njOmtJYSAiAEQA$Y/qgliDwoVboXG95a4q3rAVe18GRQxoe3ImYnBnz4r8,student
+Liam,Williams,liam.williams,$pbkdf2-sha256$29000$X2sNgfCe8977X2tNyZmzlg$j4qzYE7sx/JYyZqyJpqAB5BS4ctr3rUSBtDDt1t/4EM,student
+Sophia,Brown,sophia.brown,$pbkdf2-sha256$29000$.p/zvldq7V2LUYoxprR2Tg$vuQ9.c56IQaEng0fM2xw7t0FO2aiOIgozTR.w9QMdmM,student
+Noah,Davis,noah.davis,$pbkdf2-sha256$29000$Wcu5V8p5j9FaKwVAaC0lJA$fw.9j9ojU77IQqZ5I5aTGRbHD3EE4RnelMmUwIdQg0E,admin
